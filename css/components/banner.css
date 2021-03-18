@@ -1,0 +1,28 @@
+.banner{
+  background-image: linear-gradient(to right bottom, rgba(245,245, 245, 0.3), rgba(245,245, 245, 0.3)), url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.banner h1{
+  font-size: 40px;
+  margin-left: 40px;
+}
+
+.banner p{
+  font-size: 20px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+}
+
+.btn-green{
+  margin-left: 40px;
+  padding: 18px 36px;
+  background-color: #6ddccf;
+  color: white;
+  border-radius: 35px;
+}
